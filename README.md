@@ -17,6 +17,7 @@ This folder contains a simple landing page for a startup event. It uses Bootstra
 - Custom CSS is linked in the `<head>` of [index.html](index.html) as `style.css`.
 - Bootstrap JS bundle is loaded at the end of the `<body>` in [index.html](index.html).
 - The call-to-action button links to the Mailchimp signup page.
+- Mailchimp connection: https://mailchi.mp/efd5a35a272e/murat-start-up-event
 
 ## Notes
 
